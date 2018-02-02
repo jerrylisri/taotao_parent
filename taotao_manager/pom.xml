@@ -14,7 +14,7 @@
         <module>taotao_manager_dao</module>
         <module>taotao_manager_interface</module>
         <module>taotao_manager_service</module>
-        <module>taotao_manager_web</module>
+
     </modules>
 
     <distributionManagement>
